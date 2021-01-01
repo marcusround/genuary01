@@ -66,7 +66,6 @@ function draw() {
       } else {
         
         fill(360 * displayValue, 95, 78)
-        r = s * 1.5
 
       }
 
